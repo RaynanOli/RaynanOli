@@ -42,14 +42,6 @@ Tenho grande interesse por inovação, resolução de problemas e participação
 
 ---
 
-### 📊 Estatísticas GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raynan777&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raynan777&theme=tokyonight" />
-</div>
-
----
-
 ### 🌱 Sempre aprendendo algo novo!
 
 <picture>
