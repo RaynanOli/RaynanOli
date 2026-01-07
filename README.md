@@ -6,6 +6,25 @@ Sou um entusiasta da tecnologia, apaixonado por aprender e construir soluções 
 
 Tenho grande interesse por inovação, resolução de problemas e participação em projetos que promovem transformação e impacto positivo. Estou sempre em busca de novos conhecimentos, Networking e oportunidades para crescer profissionalmente..
 
+- Full Stack <br>
+•Desenvolvimento de sistemas completos (CRUD) <br>
+•Integração Frontend + Backend + Banco de Dados <br>
+•Modelagem de sistemas: UML
+
+- Backend <br>
+•Linguagens: Java e Python <br>
+•Banco de Dados (SQL): MySQL <br>
+•Frameworks: Spring Boot <br>
+•API: REST <br>
+
+- Frontend <br>
+•Linguagens: JavaScript, HTML e CSS <br>
+•Fundamentos de UI e organização de telas <br>
+
+- Ferramentas <br>
+•Power BI <br>
+•Excel <br>
+
 ---
 
 ### 🧠 Linguagens mais usadas
