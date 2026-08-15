@@ -18,7 +18,9 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
 
 ---
 
+ 
 ## 🛠️ Tecnologias e Ferramentas
+
 
 ### 💻 Desenvolvimento
 
@@ -40,9 +42,12 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
 </div>
 
+
 ### 🗄️ Dados & BI
 
+
 **SQL • MySQL • Power BI • ETL • Modelagem de Dados • Excel**
+
 
 ### 🤖 Automação & Sistemas
 
@@ -51,6 +56,7 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
 * SAP
 * Integração de dados
 * Automação de processos
+
 
 ### 🔧 Ferramentas
 
@@ -63,6 +69,7 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
 
 ## 📌 Projetos em destaque
 
+
 ### 🚚 HeroTrack — Portal de Rastreamento Logístico
 
 Plataforma web desenvolvida para **rastreamento de cargas e acompanhamento de operações logísticas**, com foco em integração de dados, visualização de informações e usabilidade.
@@ -74,6 +81,7 @@ Plataforma web desenvolvida para **rastreamento de cargas e acompanhamento de op
 * Visualização de indicadores
 * Integração e tratamento de dados
 * Evolução contínua da plataforma
+
 
 ### 📊 Athos Digital — Dashboards & Estratégias
 
@@ -89,6 +97,7 @@ Projeto voltado ao desenvolvimento de **dashboards estratégicos para análise d
 
 ---
 
+
 ## 🌱 Atualmente
 
 Aprofundando meus conhecimentos em:
@@ -101,6 +110,7 @@ Aprofundando meus conhecimentos em:
 * Arquitetura e desenvolvimento de aplicações
 
 ---
+
 
 ## 📬 Contato
 
