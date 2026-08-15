@@ -23,21 +23,37 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
 ### 💻 Desenvolvimento
 
 <div align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
+
   <img width="10" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
+
   <img width="10" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+
   <img width="10" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
+
   <img width="10" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
+
   <img width="10" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring Boot" />
+
   <img width="10" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
+
   <img width="10" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
+
 </div>
 
 ---
@@ -45,13 +61,18 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
 ### 🗄️ Dados & BI
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="SQL" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
-</div>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
+
+  <img width="10" />
+
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="SQL" />
+
+  <img width="10" />
+
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
+
+</div>
 
 ---
 
