@@ -101,8 +101,6 @@ Projeto voltado ao desenvolvimento de **dashboards estratégicos para análise d
 
 ---
 
-## 📈 Atualmente
-
 🌱 Aprofundando meus conhecimentos em:
 
 * Desenvolvimento Full Stack
