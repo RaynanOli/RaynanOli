@@ -138,16 +138,6 @@ Aprofundando meus conhecimentos em:
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raynan777/Raynan777/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raynan777/Raynan777/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Raynan777/Raynan777/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
----
-
 ## 📬 Contato
 
 <p align="center">
@@ -166,10 +156,15 @@ Aprofundando meus conhecimentos em:
 
 </p>
 
----
-
 <p align="center">
 
-<i>🚀 Sempre aprendendo, construindo e evoluindo.</i>
+---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raynan777/Raynan777/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raynan777/Raynan777/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Raynan777/Raynan777/output/pacman-contribution-graph.svg">
+</picture>
+
+<i>🚀 Sempre aprendendo, construindo e evoluindo.</i>
 </p>
