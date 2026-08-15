@@ -52,7 +52,6 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
 </div>
 
-**SQL • MySQL • Power BI • ETL • Modelagem de Dados • Excel**
 
 ---
 
