@@ -53,7 +53,6 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="power bi" />
 </div>
 
-**Conhecimentos:** SQL • ETL • Modelagem de Dados • Power BI • Excel
 
 ### 🤖 Automação & Sistemas
 
@@ -112,6 +111,7 @@ Projeto voltado ao desenvolvimento de **dashboards estratégicos para análise d
 * Automação de processos
 * APIs e integração de sistemas
 * Arquitetura e desenvolvimento de aplicações
+* Segurança Cibernética
 
 ---
 
