@@ -6,7 +6,6 @@
 
 Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otimização de processos, integração de informações e apoio à tomada de decisão**.
 
-Tenho interesse em desenvolvimento de software, dados, automação e na construção de soluções que resolvam problemas reais.
 
 ---
 
