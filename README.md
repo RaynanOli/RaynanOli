@@ -1,11 +1,8 @@
 # 👋 Olá! Eu sou o Raynan Maciel
 
-<img align="right" alt="coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
-
 🎓 Estudante de **Engenharia de Software** e profissional com experiência em **desenvolvimento de soluções digitais, análise de dados, Business Intelligence e automação de processos**.
 
 Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otimização de processos, integração de informações e apoio à tomada de decisão**.
-
 
 ---
 
@@ -17,7 +14,7 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
 * 🔗 Desenvolvimento e integração de **APIs REST**
 * 🗄️ Banco de dados e tratamento de dados
 * 📈 Criação de dashboards e indicadores no **Power BI**
-* 🔧 Experiência com integração de sistemas e automação de processos
+* 🔧 Integração de sistemas e automação de processos
 
 ---
 
@@ -26,33 +23,26 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
 ### 💻 Desenvolvimento
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring Boot" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
 </div>
 
 ### 🗄️ Dados & BI
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="sql" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="power bi" />
-</div>
-
+**SQL • MySQL • Power BI • ETL • Modelagem de Dados • Excel**
 
 ### 🤖 Automação & Sistemas
 
@@ -85,8 +75,6 @@ Plataforma web desenvolvida para **rastreamento de cargas e acompanhamento de op
 * Integração e tratamento de dados
 * Evolução contínua da plataforma
 
----
-
 ### 📊 Athos Digital — Dashboards & Estratégias
 
 Projeto voltado ao desenvolvimento de **dashboards estratégicos para análise de indicadores de negócio**.
@@ -101,7 +89,9 @@ Projeto voltado ao desenvolvimento de **dashboards estratégicos para análise d
 
 ---
 
-🌱 Aprofundando meus conhecimentos em:
+## 🌱 Atualmente
+
+Aprofundando meus conhecimentos em:
 
 * Desenvolvimento Full Stack
 * Engenharia de Software
@@ -109,7 +99,6 @@ Projeto voltado ao desenvolvimento de **dashboards estratégicos para análise d
 * Automação de processos
 * APIs e integração de sistemas
 * Arquitetura e desenvolvimento de aplicações
-* Segurança Cibernética
 
 ---
 
@@ -119,7 +108,7 @@ Projeto voltado ao desenvolvimento de **dashboards estratégicos para análise d
   <a href="mailto:raynanoli8@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/raynan-maciel-oliveira-7480862a8/" target="_blank">
+  <a href="https://www.linkedin.com/in/raynan-maciel-oliveira-7480862a/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/5512996462006" target="_blank">
