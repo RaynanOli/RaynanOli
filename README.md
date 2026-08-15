@@ -18,9 +18,7 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
 
 ---
 
- 
 ## 🛠️ Tecnologias e Ferramentas
-
 
 ### 💻 Desenvolvimento
 
@@ -42,12 +40,21 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
 </div>
 
+---
 
 ### 🗄️ Dados & BI
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="SQL" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
+</div>
 
 **SQL • MySQL • Power BI • ETL • Modelagem de Dados • Excel**
 
+---
 
 ### 🤖 Automação & Sistemas
 
@@ -57,6 +64,7 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
 * Integração de dados
 * Automação de processos
 
+---
 
 ### 🔧 Ferramentas
 
@@ -68,7 +76,6 @@ Atualmente trabalho com dados e desenvolvimento de soluções voltadas à **otim
 ---
 
 ## 📌 Projetos em destaque
-
 
 ### 🚚 HeroTrack — Portal de Rastreamento Logístico
 
@@ -82,6 +89,7 @@ Plataforma web desenvolvida para **rastreamento de cargas e acompanhamento de op
 * Integração e tratamento de dados
 * Evolução contínua da plataforma
 
+---
 
 ### 📊 Athos Digital — Dashboards & Estratégias
 
@@ -97,7 +105,6 @@ Projeto voltado ao desenvolvimento de **dashboards estratégicos para análise d
 
 ---
 
-
 ## 🌱 Atualmente
 
 Aprofundando meus conhecimentos em:
@@ -111,23 +118,28 @@ Aprofundando meus conhecimentos em:
 
 ---
 
-
 ## 📬 Contato
 
 <p align="center">
+
   <a href="mailto:raynanoli8@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/raynan-maciel-oliveira-7480862a/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://wa.me/5512996462006" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
 </p>
 
 ---
 
 <p align="center">
-  <i>🚀 Sempre aprendendo, construindo e evoluindo.</i>
+
+<i>🚀 Sempre aprendendo, construindo e evoluindo.</i>
+
 </p>
