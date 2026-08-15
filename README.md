@@ -1,54 +1,125 @@
-## 👋 Olá! Eu sou o Raynan Maciel
+# 👋 Olá! Eu sou o Raynan Maciel
 
-<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+<img align="right" alt="coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-Sou um entusiasta da tecnologia, apaixonado por aprender e construir soluções que façam a diferença. Constantemente estou desenvolvendo minhas habilidades em programação, bancos de dados e tecnologias modernas com foco em me tornar um profissional completo. 
+🎓 Estudante de **Engenharia de Software** e profissional com experiência em **desenvolvimento de soluções digitais, análise de dados, Business Intelligence e automação de processos**.
 
-Tenho grande interesse por inovação, resolução de problemas e participação em projetos que promovem transformação e impacto positivo. Estou sempre em busca de novos conhecimentos, Networking e oportunidades para crescer profissionalmente..
+Atualmente atuo com dados e desenvolvimento de soluções voltadas à **otimização de processos, integração de informações e apoio à tomada de decisão**.
 
-- Full Stack <br>
-•Desenvolvimento de sistemas completos (CRUD) <br>
-•Integração Frontend + Backend + Banco de Dados <br>
-•Modelagem de sistemas: UML
-
-- Backend <br>
-•Linguagens: Java e Python <br>
-•Banco de Dados (SQL): MySQL <br>
-•Frameworks: Spring Boot <br>
-•API: REST <br>
-
-- Frontend <br>
-•Linguagens: JavaScript, HTML e CSS <br>
-•Fundamentos de UI e organização de telas <br>
-
-- Ferramentas <br>
-•Power BI <br>
-•Excel <br>
+Tenho interesse em desenvolvimento de software, dados, automação e na construção de soluções que resolvam problemas reais.
 
 ---
 
-### 🧠 Linguagens mais usadas
+## 🚀 Sobre mim
+
+* 💻 Desenvolvimento de aplicações **Full Stack**
+* 📊 Análise de dados e **Business Intelligence**
+* 🤖 Automação de processos com **Python**
+* 🔗 Desenvolvimento e integração de **APIs REST**
+* 🗄️ Banco de dados e tratamento de dados
+* 📈 Criação de dashboards e indicadores no **Power BI**
+* 🔧 Experiência com integração de sistemas e automação de processos
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Desenvolvimento
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
 </div>
+
+### 🗄️ Dados & BI
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="sql" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="power bi" />
+</div>
+
+**Conhecimentos:** SQL • ETL • Modelagem de Dados • Power BI • Excel
+
+### 🤖 Automação & Sistemas
+
+* Python
+* RPA
+* SAP
+* Integração de dados
+* Automação de processos
+
+### 🔧 Ferramentas
+
+* Git & GitHub
+* Scrum
+* Kanban
+* Pacote Office
 
 ---
 
-### 📬 Contato
+## 📌 Projetos em destaque
+
+### 🚚 HeroTrack — Portal de Rastreamento Logístico
+
+Plataforma web desenvolvida para **rastreamento de cargas e acompanhamento de operações logísticas**, com foco em integração de dados, visualização de informações e usabilidade.
+
+**Principais características:**
+
+* Rastreamento e consulta de cargas
+* Interface responsiva
+* Visualização de indicadores
+* Integração e tratamento de dados
+* Evolução contínua da plataforma
+
+---
+
+### 📊 Athos Digital — Dashboards & Estratégias
+
+Projeto voltado ao desenvolvimento de **dashboards estratégicos para análise de indicadores de negócio**.
+
+**Principais atividades:**
+
+* Criação de KPIs
+* Processos ETL
+* Integração e tratamento de dados
+* Análise de indicadores
+* Apoio à tomada de decisão
+
+---
+
+## 📈 Atualmente
+
+🌱 Aprofundando meus conhecimentos em:
+
+* Desenvolvimento Full Stack
+* Engenharia de Software
+* Análise de Dados & BI
+* Automação de processos
+* APIs e integração de sistemas
+* Arquitetura e desenvolvimento de aplicações
+
+---
+
+## 📬 Contato
 
 <p align="center">
-  <a href="mailto:raynanoli8@gmail.com" target="_blank">
+  <a href="mailto:raynanoli8@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/raynan-maciel-oliveira-7480862a8/" target="_blank">
@@ -61,12 +132,6 @@ Tenho grande interesse por inovação, resolução de problemas e participação
 
 ---
 
-### 🌱 Sempre aprendendo algo novo!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raynan777/Raynan777/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raynan777/Raynan777/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raynan777/Raynan777/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p align="center">
+  <i>🚀 Sempre aprendendo, construindo e evoluindo.</i>
+</p>
